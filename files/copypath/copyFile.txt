@@ -1,0 +1,2 @@
+The File class provides us built-in methods that allow us to perform input / output operations on files.
+ArunKumar

@@ -1,0 +1,2 @@
+The FileInfo class is used to deal with file and its operations in C#. 
+It uses StreamWriter class to write data to the file. It is a part of System.IO namespace.
